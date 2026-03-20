@@ -1,19 +1,19 @@
-participant_id	species	sex	strain
-sub-001+F	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
-sub-001+R	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
-sub-002+F	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
-sub-002+R	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
-sub-003+F	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
-sub-003+R	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
-sub-004+F	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
-sub-004+R	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
-sub-005+F	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
-sub-005+R	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
-sub-006+F	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
-sub-006+R	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
-sub-007+F	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
-sub-007+R	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
-sub-008+F	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
-sub-008+R	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
-sub-009+F	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
-sub-009+R	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
+participant_id	original_participant_id	species	sex	strain
+sub-001+F	sub-001_F	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
+sub-001+R	sub-001_R	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
+sub-002+F	sub-002_F	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
+sub-002+R	sub-002_R	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
+sub-003+F	sub-003_F	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
+sub-003+R	sub-003_R	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
+sub-004+F	sub-004_F	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
+sub-004+R	sub-004_R	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
+sub-005+F	sub-005_F	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
+sub-005+R	sub-005_R	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
+sub-006+F	sub-006_F	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
+sub-006+R	sub-006_R	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
+sub-007+F	sub-007_F	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
+sub-007+R	sub-007_R	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
+sub-008+F	sub-008_F	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
+sub-008+R	sub-008_R	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
+sub-009+F	sub-009_F	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
+sub-009+R	sub-009_R	http://purl.obolibrary.org/obo/NCBITaxon_10029	U	cellline: CHO
