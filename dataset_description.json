@@ -4,7 +4,12 @@
     "HEDVersion": "8.3.0",
     "Description": "Time-lapse recordings for the investigation of the relationship between the electroporation efficiency of nsEP and changes in the transmembrane potential (TMP). A strobe imaging synchronized with nsEP exposure was used.  This allowed studying the nanosecond kinetics of TMP charging and relaxation, which is the primary effect of nsEP that rapidly charges the plasma membrane. The methodology involved pulsed laser fluorescence microscopy with voltage-sensitive FluoVolt dye-loaded cells that respond to TMP changes within nanoseconds. FluoVolt has a high sensitivity of about 10 % deltaF/F per 100 mV. During the imaging, a single short pulse laser flash is delivered at a precise time interval (addition of 25ns in each frame) before, during, or after nsEP exposure. The camera shutter opens in advance of and closes after the laser flash, capturing one TMP image per nsEP exposure. Supported by NIH 1R21EY034258",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Silkuniene, Giedre",
+        "Kim, Vitalii",
+        "Semenov, Iurii",
+        "Pakhomov, Andrei"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
